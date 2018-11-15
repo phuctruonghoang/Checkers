@@ -1,0 +1,2 @@
+Python 2.7
+python Checkers.py py2exe background.png Tahoma.ttf
