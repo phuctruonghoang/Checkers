@@ -1,2 +1,2 @@
 # Checkers
-Checkers is project about AI. Checker's project using Minimax Algorithm and Alpha-Beta prunning
+This project is Ai practice project. Checker's project using Minimax Algorithm and Alpha-Beta prunning.
